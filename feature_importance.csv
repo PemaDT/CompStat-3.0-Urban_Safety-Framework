@@ -1,0 +1,12 @@
+feature,importance
+noise___residential,0.15066776919177374
+blocked_driveway,0.14444364270184046
+illegal_parking,0.1338982810283974
+noise___street/sidewalk,0.119609702422758
+disorder_cluster,0.08865589720281195
+abandoned_vehicle,0.08031561193191607
+noise___commercial,0.0771125644199967
+noise___vehicle,0.07377062494810373
+street_light_condition,0.06950312683761774
+sanitation_condition,0.033355409960702825
+graffiti,0.028667369354081394
